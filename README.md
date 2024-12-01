@@ -1,4 +1,7 @@
 ## Hi there 👋
+- Here you will find past and present projects I am working on while working toward my bachelor's degree in Software Development!
+- 
+
 
 <!--
 **lishdiane/lishdiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
