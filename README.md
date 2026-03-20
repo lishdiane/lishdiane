@@ -56,8 +56,8 @@ I'm a **software development student** focused on building real-world projects a
 
 - I enjoy turning ideas into real applications 🎨  
 - Always learning something new in tech 📚  
-<!-- - Coffee + coding = a good day ☕   -->
 - Proud cake decorating hobbyist 🍰 
+<!-- - Coffee + coding = a good day ☕   -->
 
 
 
