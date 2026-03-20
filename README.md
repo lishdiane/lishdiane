@@ -1,10 +1,10 @@
 # Hi there, I'm Diane Lish 👋
 
-I'm a **software development student** focused on building real-world projects and developing the skills needed for a career in tech. I enjoy creating applications from the ground up and continuously learning new technologies. 🚀
+I'm a **software development student** focused on building fun projects and developing the skills needed for a career in tech. I enjoy creating applications from the ground up and continuously learning new technologies
 
 ---
 
-## 🔧 Skills & Tech Stack
+## Skills & Tech Stack
 
 - **Languages:** JavaScript, TypeScript, HTML, CSS, Python, Java, C#, SQL, Kotlin  
 - **Frontend & Backend:** React, Next.js, Node.js, Express.js  
@@ -18,7 +18,7 @@ I'm a **software development student** focused on building real-world projects a
 
 ---
 
-## 💻 Projects
+## Projects
 
 - **D-Lish Creations (In Progress)**  
   A mobile app for ordering custom cake toppers. Built using Java + Kotlin in Android Studio with Jetpack Compose.  
@@ -29,22 +29,22 @@ I'm a **software development student** focused on building real-world projects a
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Improving mobile app development skills  
 - Strengthening full-stack development knowledge  
-- Building projects that solve real-world problems  
+- Building more applications 
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - LinkedIn: https://linkedin.com/in/diane-lish-8b4b5529b  
 - Email: lishdiane@outlook.com  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Diane's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishdiane&show_icons=true&hide_title=true)
 
@@ -54,8 +54,8 @@ I'm a **software development student** focused on building real-world projects a
 
 ## ⚡ Fun Facts
 
-- I enjoy turning ideas into real applications 🎨  
-- Always learning something new in tech 📚  
+- I enjoy creating new applications  
+- Always learning something new in tech 
 - Proud cake decorating hobbyist 🍰 
 <!-- - Coffee + coding = a good day ☕   -->
 
