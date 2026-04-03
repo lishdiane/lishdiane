@@ -23,9 +23,11 @@ I'm a **software development student** focused on building fun projects and deve
 - **D-Lish Creations (In Progress)**  
   A mobile app for ordering custom cake toppers. Built using Java + Kotlin in Android Studio with Jetpack Compose.  
   Focused on learning mobile development, UI design, and implementing a cart system.
+  [DLish_Creations_Android_Mobile_App](https://github.com/lishdiane/DLish_Creations_Android_Mobile_App)
 
 - **Full-Stack Applications (BYU-Idaho)**  
   Developed multiple client/server applications using React, Node.js, and SQL databases.
+  [csemotors-node-express-mvc-app](https://github.com/lishdiane/csemotors-node-express-mvc-app)
 
 ---
 
