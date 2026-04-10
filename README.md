@@ -6,23 +6,22 @@ I'm a **software development student** focused on building fun projects and deve
 
 ## Skills & Tech Stack
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS, Python, Java, C#, SQL, Kotlin  
-- **Frontend & Backend:** React, Next.js, Node.js, Express.js  
-- **Mobile Development:** Android (Kotlin & Jetpack Compose)  
-- **Databases:** MongoDB, PostgreSQL 
-
-- **APIs:** Experience building and consuming REST APIs  
-- **Testing:** Basic experience with functional and non-functional testing  
-- **Tools & Workflow:** Git, GitHub Projects, Trello, Squash Test Management  
-- **Deployment:** Netlify, Vercel, Render 
+| Category | Technologies |
+|----------|-------------|
+| Languages | JavaScript, TypeScript, Python, Java, C#, SQL, Kotlin |
+| Frontend | React, Next.js, HTML, CSS |
+| Backend | Node.js, Express.js, REST APIs, Flask |
+| Mobile | Kotlin, Jetpack Compose |
+| Databases | MongoDB, PostgreSQL |
+| Deployment | Netlify, Vercel, Render |
+| Tools | Git, GitHub, Trello |
 
 ---
 
 ## Projects
 
 - **D-Lish Creations (In Progress)**  
-  A mobile app for ordering custom cake toppers. Built using Java + Kotlin in Android Studio with Jetpack Compose.  
-  Focused on learning mobile development, UI design, and implementing a cart system.
+A mobile e-commerce app for ordering custom cake toppers. Built with Kotlin and Jetpack Compose in Android Studio. Features a product catalog, shopping cart, and a customer support chat screen that communicates with a Python Flask server over HTTP.
   [DLish_Creations_Android_Mobile_App](https://github.com/lishdiane/DLish_Creations_Android_Mobile_App)
 
 - **Full-Stack Applications (BYU-Idaho)**  
@@ -33,9 +32,9 @@ I'm a **software development student** focused on building fun projects and deve
 
 ## Current Focus
 
-- Improving mobile app development skills  
-- Strengthening full-stack development knowledge  
-- Building more applications 
+- Improving mobile app development skills with Kotlin and Jetpack Compose
+- Strengthening full-stack development across the entire stack
+- Building a profile of projects
 
 ---
 
