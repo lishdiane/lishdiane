@@ -24,7 +24,7 @@ I'm a **software developer** focused on full-stack development.  I enjoy buildin
 A mobile e-commerce app for ordering custom cake toppers. Built with Kotlin and Jetpack Compose in Android Studio. Features a product catalog, shopping cart, and a customer support chat screen that communicates with a Python Flask server over HTTP.
   [DLish_Creations_Android_Mobile_App](https://github.com/lishdiane/DLish_Creations_Android_Mobile_App)
 
-- **The Motor Inventory app **  
+- **Motor Inventory app**  
    A full-stack web app built with Node.js, Express, and EJS featuring JWT authentication, role-based access control, and MVC architecture. 
   [csemotors-node-express-mvc-app](https://github.com/lishdiane/csemotors-node-express-mvc-app)
 
