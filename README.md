@@ -10,9 +10,11 @@ I'm a **software developer** focused on full-stack development.  I enjoy buildin
 |----------|-------------|
 | Languages | JavaScript, TypeScript, Python, Java, C#, SQL, Kotlin |
 | Frontend | React, Next.js, HTML, CSS |
-| Backend | Node.js, Express.js, REST APIs, Flask |
-| Mobile | Kotlin, Jetpack Compose |
-| Databases | MongoDB, PostgreSQL |
+| Backend | Node.js, Express.js, REST APIs, Flask, Passport.js |
+| Mobile | Kotlin, Jetpack Compose, OkHttp, Kotlin Coroutines |
+| Databases | MongoDB, Mongoose, PostgreSQL |
+| Authentication | JWT, GitHub OAuth |
+| Testing & Docs | Jest, Swagger |
 | Deployment | Netlify, Vercel, Render |
 | Tools | Git, GitHub, Postman, Trello |
 
